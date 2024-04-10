@@ -1,4 +1,4 @@
-### Hi! Welcome to my profile, I am Ayrton and here you find a little bit about me and how I code.
+### Hi! Welcome to my profile, I am Ayrton and here you'll find a little bit about me and how I code.
 
 Here is some information about me:
 
