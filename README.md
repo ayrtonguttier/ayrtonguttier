@@ -3,7 +3,7 @@
 Here is some information about me:
 
 - I have been working with C#.NET for the better part of ten years and it's currently my language of choice
-- I’m currently learning go lang and I have been loving it. I want to pick up some projects to really get good at it.
+- I’m currently learning go and I am having a great time with it.
 - I'm working on an interpreter and you can find the code here [Monkey Language](https://github.com/ayrtonguttier/MonkeyLanguage)
 - You can reach me in my linkedin profile
 
